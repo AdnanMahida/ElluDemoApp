@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ElluDemo App</string>
+    <string name="cleaner">Cleaner</string>
+    <string name="favorites">favorites</string>
+    <string name="menu">Menu</string>
+    <string name="home_cleaning">Home Cleaning</string>
+    <string name="customize">Customize</string>
+    <string name="add_to_cart">Add To Cart- ₹%1$s</string>
+</resources>
